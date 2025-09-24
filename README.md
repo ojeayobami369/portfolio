@@ -23,7 +23,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 **Crime Analysis Across Europe.**
 
-![image](Crime-db.PNG)
+![image](DAjuly.PNG)
 
 This project is analysis crime data across Europe, showing crimes across time and days
 
