@@ -1,2 +1,2 @@
 # portfolio
-This is my portfolio
+Ayo is a data science coach
